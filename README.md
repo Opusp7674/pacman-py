@@ -1,5 +1,7 @@
 Pacman In Python
 =====================
+Pacman recreation written in python featuring 2 levels
+
 [Youtube Video](https://youtube.com/shorts/VIuec61YfO0?feature=share)
 
 ![Alt text](/pacman.png?raw=true "pacman")
